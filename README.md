@@ -1,2 +1,2 @@
 # ypsdp.github.io
-YPSDP
+YPSDP Foundation
